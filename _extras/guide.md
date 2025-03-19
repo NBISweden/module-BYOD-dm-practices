@@ -2,7 +2,7 @@
 title: "Instructor Notes"
 ---
 > ## Presentation slides
-> Download the [presentation slides](../module-versioning-dm-practice.pdf)
+> Download the [presentation slides](../module-BYOD-dm-practice.pdf)
 >
 {: .prereq}
 
