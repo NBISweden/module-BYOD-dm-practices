@@ -12,7 +12,7 @@ carpentry: "nbis"
 remote_theme: NBISweden/styles-dm-practices@canvas
 
 # Overall title for pages.
-title: "Apply Data Management practices on your project"
+title: "Applying data management practices in my own research"
 
 # Life cycle stage of the lesson
 # See this page for more details: https://cdh.carpentries.org/the-lesson-life-cycle.html
