@@ -2,9 +2,6 @@
 title: Setup
 ---
 
-> ## Presentation
->
-> Slides for this module are available [here](module-versioning-dm-practice.pdf)
-{: .prereq}
+The course material and exercises from the previous modules of the course will be used to guide you through the activities.
 
 {% include links.md %}
