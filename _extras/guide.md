@@ -7,7 +7,7 @@ title: "Instructor Notes"
 {: .prereq}
 
 # Session
-- 5 minutes presentation
+- 5 minutes introduction
 - Divide into topic groups based on interest in the classroom
 - Let them work on the different options for 70 minutes with helpers available in each goup
 - Remind with 10 minutes left to wrap-up
